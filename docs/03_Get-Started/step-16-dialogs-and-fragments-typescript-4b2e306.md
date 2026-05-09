@@ -153,12 +153,6 @@ We will need the new `id="helloDialogButton"` in [Step 28: Integration Test with
 
 It is a good practice to set a unique ID like `helloWorldButton`To reuse the dialog opening and closing functionality in other controllers, you can create a new file to key controls of your app so that can be identified easily. If the `id` attribute is not specified, the OpenUI5 runtime generates unique but changing ID like "\_\_button23" for the control. Inspect the DOM elements of your app in the browser to see the difference.
 
-**Parent topic:**[Walkthrough Tutorial \(TypeScript\)](walkthrough-tutorial-typescript-dad1905.md "In this tutorial we'll introduce you to all major development paradigms of OpenUI5. We'll demonstrate the use of TypeScript with OpenUI5 and highlight the specific characteristics of this approach.")
-
-**Next:**[Step 15: Nested Views \(TypeScript\)](step-15-nested-views-typescript-9bbbfaa.md "Our panel content is getting more and more complex and now it is time to move the panel content to a separate view. With that approach, the application structure is much easier to understand, and the individual parts of the app can be reused.")
-
-**Previous:**[Step 17: Fragment Callbacks \(TypeScript\)](step-17-fragment-callbacks-typescript-f030afc.md "Now that we have integrated the dialog, it's time to add some user interaction. The user will definitely want to close the dialog again at some point, so we add a button to close the dialog and assign an event handler.")
-
 **Related Information**  
 
 

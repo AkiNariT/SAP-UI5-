@@ -126,7 +126,7 @@ You can create a completely new theme by writing CSS files if you meet the follo
 
 ***
 
-### Don'ts ![No](../02_Read-Me-First/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
+### Don'ts ![No](../03_Get-Started/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
 
 -   **Don't hard-code colors** or metrics in custom CSS
 -   **Don't use deprecated LESS features** in new development
@@ -162,5 +162,5 @@ Frequently asked questions regarding theming in OpenUI5
 
 [Available Themes](available-themes-da0d2e7.md "Provides a list of themes and their names.")
 
-[Supported Combinations of Themes and Libraries](../02_Read-Me-First/supported-combinations-of-themes-and-libraries-38ff8c2.md "This chapter gives an overview of the possible combinations of themes and libraries for the OpenUI5 versions that are still in maintenance.")
+[Supported Themes](../02_Read-Me-First/supported-themes-38ff8c2.md "This chapter gives an overview of the supported themes.")
 

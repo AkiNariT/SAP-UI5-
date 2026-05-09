@@ -133,12 +133,6 @@ Our component now automatically creates an instance of `sap.ui.model.odata.v2.OD
 
 As our app is now bound to a remote OData service, we do not need the `localInvoices.json` file anymore; you can delete it.
 
-**Parent topic:**[Walkthrough Tutorial \(TypeScript\)](walkthrough-tutorial-typescript-dad1905.md "In this tutorial we'll introduce you to all major development paradigms of OpenUI5. We'll demonstrate the use of TypeScript with OpenUI5 and highlight the specific characteristics of this approach.")
-
-**Next:**[Step 24: Sorting and Grouping \(TypeScript\)](step-24-sorting-and-grouping-typescript-86bbe13.md "To make our list of invoices even more user-friendly, we sort it alphabetically instead of just showing the order from the data model. Additionally, we introduce groups and add the company that ships the products so that the data is easier to consume.")
-
-**Previous:**[Step 26: Mock Server Configuration \(TypeScript\)](step-26-mock-server-configuration-typescript-3e1c64f.md "We just ran our app against a real service, but for developing and testing our app we do not want to rely on the availability of the &quot;real&quot; service or put additional load on the system where the data service is located.")
-
 **Related Information**  
 
 

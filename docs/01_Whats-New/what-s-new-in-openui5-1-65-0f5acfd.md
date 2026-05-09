@@ -72,7 +72,7 @@ Feature
 
 A new theme with *SAP Quartz Light* as the default appearance \(theme ID `sap_fiori_3`\) has been introduced. The theme is provided as an additional theme in OpenUI5.
 
-For more information, see [Supported Combinations of Themes and Libraries](../02_Read-Me-First/supported-combinations-of-themes-and-libraries-38ff8c2.md).
+For more information, see [Supported Themes](../02_Read-Me-First/supported-themes-38ff8c2.md).
 
 <sub>New•Feature•Info Only•1.65</sub>
 
@@ -725,6 +725,8 @@ Info Only
 
 **Related Information**  
 
+
+[What's New in OpenUI5 1.146](what-s-new-in-openui5-1-146-6ccfe05.md "With this release OpenUI5 is upgraded from version 1.145 to 1.146.")
 
 [What's New in OpenUI5 1.145](what-s-new-in-openui5-1-145-7676a2a.md "With this release OpenUI5 is upgraded from version 1.144 to 1.145.")
 

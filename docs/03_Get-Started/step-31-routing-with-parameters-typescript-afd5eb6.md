@@ -185,12 +185,6 @@ Our last piece to fit the puzzle together is the detail view. We replace the app
 
 -   Initialize the router at the end of your `Component#init` function
 
-**Parent topic:**[Walkthrough Tutorial \(TypeScript\)](walkthrough-tutorial-typescript-dad1905.md "In this tutorial we'll introduce you to all major development paradigms of OpenUI5. We'll demonstrate the use of TypeScript with OpenUI5 and highlight the specific characteristics of this approach.")
-
-**Next:**[Step 30: Routing and Navigation \(TypeScript\)](step-30-routing-and-navigation-typescript-6173e3d.md "So far, we have put all app content on one single page. As we add more and more features, we want to split the content and put it on separate pages.")
-
-**Previous:**[Step 32: Routing Back and History \(TypeScript\)](step-32-routing-back-and-history-typescript-ae61211.md "Now we can navigate to our detail page and display an invoice, but we cannot go back to the overview page yet. We'll add a back button to the detail page and implement a function that shows our overview page again.")
-
 **Related Information**  
 
 

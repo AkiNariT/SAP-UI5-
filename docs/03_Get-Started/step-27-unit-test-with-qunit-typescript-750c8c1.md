@@ -211,12 +211,6 @@ If we now open the `webapp/test/testsuite.qunit.html` file in the browser and se
 -   All dependencies are replaced by stubs to test only the functionality in scope.
 
 
-**Parent topic:**[Walkthrough Tutorial \(TypeScript\)](walkthrough-tutorial-typescript-dad1905.md "In this tutorial we'll introduce you to all major development paradigms of OpenUI5. We'll demonstrate the use of TypeScript with OpenUI5 and highlight the specific characteristics of this approach.")
-
-**Next:**[Step 26: Mock Server Configuration \(TypeScript\)](step-26-mock-server-configuration-typescript-3e1c64f.md "We just ran our app against a real service, but for developing and testing our app we do not want to rely on the availability of the &quot;real&quot; service or put additional load on the system where the data service is located.")
-
-**Previous:**[Step 28: Integration Test with OPA \(TypeScript\)](step-28-integration-test-with-opa-typescript-412f0b6.md "If we want to test interaction patterns or more visual features of our app, we can also write an integration test.")
-
 **Related Information**  
 
 

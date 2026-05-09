@@ -162,12 +162,6 @@ new ComponentContainer({
 -   The `index.html` file is located in the `webapp` folder if it is used productively.
 
 
-**Parent topic:**[Walkthrough Tutorial \(TypeScript\)](walkthrough-tutorial-typescript-dad1905.md "In this tutorial we'll introduce you to all major development paradigms of OpenUI5. We'll demonstrate the use of TypeScript with OpenUI5 and highlight the specific characteristics of this approach.")
-
-**Next:**[Step 8: Translatable Texts \(TypeScript\)](step-8-translatable-texts-typescript-4dcf52e.md "In this step we move the texts of our UI to a separate resource file.")
-
-**Previous:**[Step 10: Descriptor for Applications \(TypeScript\)](step-10-descriptor-for-applications-typescript-2a46b75.md "All application-specific configuration settings will now further be put in a separate descriptor file called manifest.json. This clearly separates the application coding from the configuration settings and makes our app even more flexible. For example, all SAP Fiori applications are realized as components and come with a descriptor file in order to be hosted in the SAP Fiori launchpad.")
-
 **Related Information**  
 
 

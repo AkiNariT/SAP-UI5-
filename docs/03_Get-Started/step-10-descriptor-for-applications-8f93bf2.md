@@ -24,7 +24,7 @@ You can view and download all files at [Walkthrough - Step 10](https://ui5.sap.c
 
 ```
 {
-  "_version": "2.7.0",
+  "_version": "2.8.0",
   "sap.app": {
 	"id": "ui5.walkthrough",
 	"i18n": "i18n/i18n.properties",
@@ -45,7 +45,7 @@ You can view and download all files at [Walkthrough - Step 10](https://ui5.sap.c
   },
   "sap.ui5": {
 	"dependencies": {
-	  "minUI5Version": "1.147.0",
+	  "minUI5Version": "1.148.0",
 	  "libs": {
 		"sap.ui.core": {},
 		"sap.m": {}
@@ -221,12 +221,6 @@ In the component's `metadata` section, we now replace the `rootView` property wi
 
 -   Use translatable strings for the title and the description of the app.
 
-
-**Parent topic:**[Walkthrough Tutorial \(JavaScript\)](walkthrough-tutorial-javascript-3da5f4b.md "In this tutorial we will introduce you to all major development paradigms of OpenUI5.")
-
-**Next:**[Step 9: Component Configuration](step-9-component-configuration-4cfa608.md "After we have introduced all three parts of the Model-View-Controller (MVC) concept, we now come to another important structural aspect of OpenUI5.")
-
-**Previous:**[Step 11: Pages and Panels](step-11-pages-and-panels-3b9d9f8.md "After all the work on the app structure it's time to improve the look of our app. We will use two controls from the sap.m library to add a bit more &quot;bling&quot; to our UI. You will also learn about control aggregations in this step.")
 
 **Related Information**  
 

@@ -69,12 +69,6 @@ The `Shell` control is now the outermost control of our app and automatically di
 
 There are further options to customize the shell, like setting a custom background image or color and setting a custom logo. Check the related API reference for more details.
 
-**Parent topic:**[Walkthrough Tutorial \(TypeScript\)](walkthrough-tutorial-typescript-dad1905.md "In this tutorial we'll introduce you to all major development paradigms of OpenUI5. We'll demonstrate the use of TypeScript with OpenUI5 and highlight the specific characteristics of this approach.")
-
-**Next:**[Step 11: Pages and Panels \(TypeScript\)](step-11-pages-and-panels-typescript-feed613.md "After all the work on the app structure it's time to improve the look of our app. We will use two controls from the sap.m library to add a bit more &quot;bling&quot; to our UI. You will also learn about control aggregations in this step.")
-
-**Previous:**[Step 13: Margins and Paddings \(TypeScript\)](step-13-margins-and-paddings-typescript-5826c0c.md "Our app content is still glued to the corners of the letterbox. To fine-tune our layout, we can add margins and paddings to the controls that we added in the previous step.")
-
 **Related Information**  
 
 

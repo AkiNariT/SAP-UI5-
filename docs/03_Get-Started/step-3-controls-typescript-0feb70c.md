@@ -109,12 +109,6 @@ Open a terminal in the app root folder and execute the following command:
 
 This will configure the `sap.m` OpenUI5 library as a dependency in our `ui5.yaml`.
 
-**Parent topic:**[Walkthrough Tutorial \(TypeScript\)](walkthrough-tutorial-typescript-dad1905.md "In this tutorial we'll introduce you to all major development paradigms of OpenUI5. We'll demonstrate the use of TypeScript with OpenUI5 and highlight the specific characteristics of this approach.")
-
-**Next:**[Step 2: Bootstrap \(TypeScript\)](step-2-bootstrap-typescript-32b14d8.md "Before we can do something with OpenUI5, we need to load and initialize it. This process of loading and initializing OpenUI5 is called bootstrapping. Once this bootstrapping is finished, we simply display an alert.")
-
-**Previous:**[Step 4: XML Views \(TypeScript\)](step-4-xml-views-typescript-6c66ed8.md "Putting all our UI into the index.ts file will very soon result in a messy setup, and there is quite a bit of work ahead of us. So let's do a first modularization by putting the sap/m/Text control into a dedicated view.")
-
 **Related Information**  
 
 

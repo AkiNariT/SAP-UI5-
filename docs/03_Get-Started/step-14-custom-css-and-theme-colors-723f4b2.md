@@ -106,7 +106,7 @@ In the `resources` section of the `sap.ui5` namespace, additional resources for 
 									width="60%"/>
 								<FormattedText
 									htmlText="Hello {/recipient/name}"
-									class="sapUiSmallMarginmyCustomText"/>
+									class="sapUiSmallMargin sapThemeHighlight-asColor myCustomText"/>
 							</content>
 						</Panel>
 					</content>
@@ -129,12 +129,6 @@ To highlight the output text, we use a `FormattedText` control which can be styl
 
 -   Do not use any hard-coded colors in custom CSS but use the custom CSS properties to provide a theme-dependent behavior instead.
 
-
-**Parent topic:**[Walkthrough Tutorial \(JavaScript\)](walkthrough-tutorial-javascript-3da5f4b.md "In this tutorial we will introduce you to all major development paradigms of OpenUI5.")
-
-**Next:**[Step 13: Margins and Paddings](step-13-margins-and-paddings-17b87fb.md "Our app content is still glued to the corners of the letterbox. To fine-tune our layout, we can add margins and paddings to the controls that we added in the previous step.")
-
-**Previous:**[Step 15: Nested Views](step-15-nested-views-df8c9c3.md "Our panel content is getting more and more complex and now it is time to move the panel content to a separate view. With that approach, the application structure is much easier to understand, and the individual parts of the app can be reused.")
 
 **Related Information**  
 

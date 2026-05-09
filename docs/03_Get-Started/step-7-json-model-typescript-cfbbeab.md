@@ -98,12 +98,6 @@ We also create a greeting message by combining the static "Hello" text with the 
 </mvc:View>
 ```
 
-**Parent topic:**[Walkthrough Tutorial \(TypeScript\)](walkthrough-tutorial-typescript-dad1905.md "In this tutorial we'll introduce you to all major development paradigms of OpenUI5. We'll demonstrate the use of TypeScript with OpenUI5 and highlight the specific characteristics of this approach.")
-
-**Next:**[Step 6: Modules \(TypeScript\)](step-6-modules-typescript-3510034.md "In OpenUI5, resources are often referred to as modules. In this step, we replace the alert from the last exercise with a proper Message Toast from the sap.m library.")
-
-**Previous:**[Step 8: Translatable Texts \(TypeScript\)](step-8-translatable-texts-typescript-4dcf52e.md "In this step we move the texts of our UI to a separate resource file.")
-
 **Related Information**  
 
 

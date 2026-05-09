@@ -144,7 +144,7 @@ ODataMetaModel V4
 </td>
 <td valign="top">
 
-![Not supported](../02_Read-Me-First/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
+![Not supported](../03_Get-Started/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
 
 </td>
 </tr>
@@ -161,12 +161,12 @@ ODataMetaModel
 </td>
 <td valign="top">
 
-![Not supported](../02_Read-Me-First/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
+![Not supported](../03_Get-Started/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
 
 </td>
 <td valign="top">
 
-![Not supported](../02_Read-Me-First/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
+![Not supported](../03_Get-Started/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
 
 </td>
 </tr>
@@ -232,7 +232,7 @@ Resource model
 </td>
 <td valign="top">
 
-![Not supported](../02_Read-Me-First/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
+![Not supported](../03_Get-Started/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
 
 </td>
 </tr>
@@ -272,9 +272,9 @@ The default binding mode applies when a model instance is created. You can overw
     > When you change the binding mode of an existing model instance, the existing bindings are not updated with the newly set binding mode.
 
 
--   **[Binding Types](binding-types-91f0d8a.md "Depending on the different use cases, you can use different binding types: Propety
-		binding, context binding, and list binding.")**  
-Depending on the different use cases, you can use different binding types: Propety binding, context binding, and list binding.
+-   **[Binding Types](binding-types-91f0d8a.md "Depending on the different use cases, you can use different binding types: property
+		binding, context binding, list binding, and tree binding.")**  
+Depending on the different use cases, you can use different binding types: property binding, context binding, list binding, and tree binding.
 -   **[Binding Syntax](binding-syntax-e2e6f41.md "You bind UI elements to data of a data source by defining a binding path to the model
 		that represents the data source in the app.")**  
 You bind UI elements to data of a data source by defining a binding path to the model that represents the data source in the app.

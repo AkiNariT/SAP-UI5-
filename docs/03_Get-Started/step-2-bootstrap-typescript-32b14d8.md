@@ -167,7 +167,7 @@ Next, we have to configure the tooling extensions we installed from npm in our U
 ```
 framework:
   name: OpenUI5
-  version: "1.147.0"
+  version: "1.148.0"
   libraries:
     - name: sap.ui.core
     - name: themelib_sap_horizon
@@ -189,12 +189,6 @@ Now you can benefit from live reload on changes, built framework resources at de
 
 > ### Note:  
 > During its initial run, the `ui5-middleware-serveframework` middleware will build the framework, which can take a while. In all following steps, the build will not happen again and the framework is served from the built resources.
-
-**Parent topic:**[Walkthrough Tutorial \(TypeScript\)](walkthrough-tutorial-typescript-dad1905.md "In this tutorial we'll introduce you to all major development paradigms of OpenUI5. We'll demonstrate the use of TypeScript with OpenUI5 and highlight the specific characteristics of this approach.")
-
-**Next:**[Step 1: Hello World! \(TypeScript\)](step-1-hello-world-typescript-c20489e.md "As you know, OpenUI5 is all about HTML5. Let's get started with building a first &quot;Hello World&quot; with HTML. This tutorial version has been set up in a way that allows the use of UI5 CLI in combination with it.")
-
-**Previous:**[Step 3: Controls \(TypeScript\)](step-3-controls-typescript-0feb70c.md "Now it is time to build our first little UI by replacing the &quot;Hello World&quot; text in the HTML body by the OpenUI5 control sap/m/Text. In the beginning, we will use the TypeScript control API to set up the UI, the control instance is then placed into the HTML body.")
 
 **Related Information**  
 

@@ -94,7 +94,7 @@ Indicates that usage of the API is restricted. It is not meant to be used by app
 </td>
 <td valign="top">
 
-![No](../02_Read-Me-First/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
+![No](images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
 
 </td>
 <td valign="top">
@@ -121,12 +121,12 @@ Indicates that the API is not meant for use outside of OpenUI5 framework develop
 </td>
 <td valign="top">
 
-![No](../02_Read-Me-First/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
+![No](images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
 
 </td>
 <td valign="top">
 
-![No](../02_Read-Me-First/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
+![No](images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
 
 </td>
 <td valign="top">
@@ -153,12 +153,12 @@ Indicates that the API is only meant for certain stakeholders within OpenUI5 fra
 </td>
 <td valign="top">
 
-![No](../02_Read-Me-First/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)<sup>2,3</sup> 
+![No](images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)<sup>2,3</sup> 
 
 </td>
 <td valign="top">
 
-![No](../02_Read-Me-First/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
+![No](images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
 
 </td>
 <td valign="top">
@@ -185,12 +185,12 @@ Deprecated, replaced by `ui5-restricted`
 </td>
 <td valign="top">
 
-![No](../02_Read-Me-First/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
+![No](images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
 
 </td>
 <td valign="top">
 
-![No](../02_Read-Me-First/images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
+![No](images/loio5befb5af20ed42fd9052a99014d953a3_LowRes.gif)
 
 </td>
 <td valign="top">

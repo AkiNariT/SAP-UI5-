@@ -101,12 +101,6 @@ As you can see above, we use a special binding syntax for the `number` property 
 
 Use data types instead of custom formatters whenever possible.
 
-**Parent topic:**[Walkthrough Tutorial \(TypeScript\)](walkthrough-tutorial-typescript-dad1905.md "In this tutorial we'll introduce you to all major development paradigms of OpenUI5. We'll demonstrate the use of TypeScript with OpenUI5 and highlight the specific characteristics of this approach.")
-
-**Next:**[Step 19: Aggregation Binding \(TypeScript\)](step-19-aggregation-binding-typescript-24580fb.md "Now that we have established a good structure for our app, it's time to add some more functionality. We start exploring more features of data binding by adding some invoice data in JSON format that we display in a list below the panel.")
-
-**Previous:**[Step 21: Expression Binding \(TypeScript\)](step-21-expression-binding-typescript-8d67ba2.md "Sometimes the predefined types of OpenUI5 are not flexible enough and you want to do a simple calculation or formatting in the view - that is where expressions are really helpful. We use them to format our price according to the current number in the data model.")
-
 **Related Information**  
 
 

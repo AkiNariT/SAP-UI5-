@@ -16,7 +16,7 @@ The data of the manifest is stored in JSON format in the `manifest.json` file. T
 
 The manifest schema defines how you need to maintain the content of the manifest. It also specifies which namespaces and fields are available. The full schema is available as open source in a [repository on Github](https://github.com/UI5/manifest).
 
-When the manifest schema changes, a new version is published alongside the release of the new OpenUI5 version. This new OpenUI5 version understands the updated schema and supports new features. The schema version you use is defined by the value of `_version`. The version number follows the pattern described under [Versioning and Maintenance of SAPUI5](https://ui5.sap.com/1.136.1/#/topic/91f021426f4d1014b6dd926db0e91070). In general, a new version with the same major version number is compatible with the previous one. It offers new features or marks certain features as deprecated, which you should migrate. A new major version can remove features that were previously deprecated, and these must be migrated.
+When the manifest schema changes, a new version is published alongside the release of the new OpenUI5 version. This new OpenUI5 version understands the updated schema and supports new features. The schema version you use is defined by the value of `_version`. The version number follows the pattern described under [Versioning and Maintenance of OpenUI5](../02_Read-Me-First/versioning-and-maintenance-of-openui5-91f0214.md). In general, a new version with the same major version number is compatible with the previous one. It offers new features or marks certain features as deprecated, which you should migrate. A new major version can remove features that were previously deprecated, and these must be migrated.
 
 ***
 
@@ -24,7 +24,7 @@ When the manifest schema changes, a new version is published alongside the relea
 
 ## Manifest Version 2
 
-Starting with OpenUI5 1.136, the new major version 2.x.x Using this new version ensures you follow best practices and are prepared for the future. As mentioned earlier, this new major version removes deprecated features. Check the [Migration Information for Upgrading the Manifest File](migration-information-for-upgrading-the-manifest-file-a110f76.md) to learn about the changes needed to migrate to this version.
+Starting with OpenUI5 1.136, the new major *version 2.x.x* is available. Using this new version ensures you follow best practices and are prepared for the future. As mentioned earlier, this new major version removes deprecated features. Check the [Migration Information for Upgrading the Manifest File](migration-information-for-upgrading-the-manifest-file-a110f76.md) to learn about the changes needed to migrate to this version.
 
 ***
 
@@ -415,6 +415,18 @@ OpenUI5 Version
 <td valign="top">
 
 \>=1.147
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+2.8.0 *or* 1.86.0
+
+</td>
+<td valign="top">
+
+\>=1.148
 
 </td>
 </tr>
@@ -1455,7 +1467,7 @@ Current version of the `manifest.json`
 ```
 
 {
-"_version": "1.85.0",
+"_version": "1.86.0",
  
     "start_url": "index.html",
  
@@ -1542,7 +1554,7 @@ Current version of the `manifest.json`
             }]
         },
         "dependencies": {
-            "minUI5Version": "1.147.0",
+            "minUI5Version": "1.148.0",
             "libs": {
                 "sap.m": {
                     "minVersion": "1.34.0"
@@ -1672,10 +1684,9 @@ oComponent.getManifestEntry("/sap.ui5/dependencies/libs"); // returns reference 
 -   **[Migrating from Component Metadata to Manifest](migrating-from-component-metadata-to-manifest-e282db2.md "Overview, how the component metadata are mapped to the manifest (descriptor for
 		applications, components and libraries). ")**  
 Overview, how the component metadata are mapped to the manifest \(descriptor for applications, components and libraries\).
--   **[Migration Information for Upgrading the Manifest File](migration-information-for-upgrading-the-manifest-file-a110f76.md "Information how to add new attributes of manifest (also known as descriptor) versions
-		higher than V2 (OpenUI5 1.30) to
-		the manifest file.")**  
-Information how to add new attributes of manifest \(also known as descriptor\) versions higher than V2 \(OpenUI5 1.30\) to the manifest file.
+-   **[Migration Information for Upgrading the Manifest File](migration-information-for-upgrading-the-manifest-file-a110f76.md "Use the following table to identify manifest attribute incompatibilities that are
+		relevant to your target manifest version.")**  
+Use the following table to identify manifest attribute incompatibilities that are relevant to your target manifest version.
 -   **[Manifest for Libraries](manifest-for-libraries-b229914.md "The manifest (also known as descriptor) for libraries contains a subset of the
 		attributes in the manifest for applications and components.")**  
 The manifest \(also known as descriptor\) for libraries contains a subset of the attributes in the manifest for applications and components.

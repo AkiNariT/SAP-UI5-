@@ -181,12 +181,6 @@ If we now open the `webapp/test/testsuite.qunit.html` file in the browser and se
 -   Use `page` objects and `journeys` for structuring OPA tests.
 
 
-**Parent topic:**[Walkthrough Tutorial \(TypeScript\)](walkthrough-tutorial-typescript-dad1905.md "In this tutorial we'll introduce you to all major development paradigms of OpenUI5. We'll demonstrate the use of TypeScript with OpenUI5 and highlight the specific characteristics of this approach.")
-
-**Next:**[Step 27: Unit Test with QUnit \(TypeScript\)](step-27-unit-test-with-qunit-typescript-750c8c1.md "Now that we have a test folder in the app, we can start to increase our test coverage.")
-
-**Previous:**[Step 29: Debugging Tools \(TypeScript\)](step-29-debugging-tools-typescript-50990a0.md "Even though we have added a basic test coverage in the previous steps, it seems like we accidentally broke our app, because it does not display prices to our invoices anymore. We need to debug the issue and fix it before someone finds out.")
-
 **Related Information**  
 
 

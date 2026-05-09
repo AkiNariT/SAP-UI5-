@@ -140,12 +140,6 @@ A resource bundle is a flat structure, therefore the preceding slash \(/\) can b
 -   Use Unicode escape sequences for special characters.
 
 
-**Parent topic:**[Walkthrough Tutorial \(TypeScript\)](walkthrough-tutorial-typescript-dad1905.md "In this tutorial we'll introduce you to all major development paradigms of OpenUI5. We'll demonstrate the use of TypeScript with OpenUI5 and highlight the specific characteristics of this approach.")
-
-**Next:**[Step 7: JSON Model \(TypeScript\)](step-7-json-model-typescript-cfbbeab.md "Now that we have set up the view and controller, it's about time to think about the M in MVC.")
-
-**Previous:**[Step 9: Component Configuration \(TypeScript\)](step-9-component-configuration-typescript-f9d0e2f.md "After we have introduced all three parts of the Model-View-Controller (MVC) concept, we now come to another important structural aspect of OpenUI5.")
-
 **Related Information**  
 
 

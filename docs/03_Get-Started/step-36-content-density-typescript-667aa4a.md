@@ -93,12 +93,6 @@ As we have just enabled the app to run in both modes depending on the devices ca
     }
 ```
 
-**Parent topic:**[Walkthrough Tutorial \(TypeScript\)](walkthrough-tutorial-typescript-dad1905.md "In this tutorial we'll introduce you to all major development paradigms of OpenUI5. We'll demonstrate the use of TypeScript with OpenUI5 and highlight the specific characteristics of this approach.")
-
-**Next:**[Step 35: Device Adaptation \(TypeScript\)](step-35-device-adaptation-typescript-ab8ed1b.md "We now configure the visibility and properties of controls based on the device that we run the application on. By making use of the sap.ui.Device API and defining a device model we will make the app look great on many devices.")
-
-**Previous:**[Step 37: Accessibility \(TypeScript\)](step-37-accessibility-typescript-5a74cea.md "In this step we're going to improve the accessibility of our app.")
-
 **Related Information**  
 
 

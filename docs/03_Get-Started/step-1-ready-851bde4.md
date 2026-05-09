@@ -4,11 +4,29 @@
 
 Let's get you ready for your journey! We bootstrap OpenUI5 in an HTML page and implement a simple "Hello World" example.
 
+We create an app with two pages and a navigation button to navigate between the pages.
+
+***
+
+## Preview Quickstart App
+
+  
+  
+**Ready...Steady...Go!**
+
+![](images/loio443918d392b94ec58e0f84df6ec54d46_LowRes.png "Ready...Steady...Go!")
+
+> ### Tip:  
+> If you want to skip one or more steps, you can jump directly to the step you're interested in. Then simply download the code from the previous step, and start learning from there. You can download the code for each step in the [Quick Start Sample](https://ui5.sap.com/#/entity/sap.m.tutorial.quickstart). 
+
+> ### Note:  
+> All you need to build your app, is a Web browser, a Web server, and a development environment of your choice. For more information, see the links below.
+
 ***
 
 <a name="loio851bde42e4e1410c96abbe402fa9128c__section_cpm_14c_1gb"/>
 
-## Preview
+## Preview Step 1
 
   
   
@@ -117,7 +135,7 @@ You can view and download all files at [Quick Start - Step 1](https://ui5.sap.co
 
     ```
     {
-      "_version": "2.7.0",
+      "_version": "2.8.0",
       "sap.app": {
         "id": "ui5.quickstart"
       }
@@ -134,10 +152,6 @@ You can view and download all files at [Quick Start - Step 1](https://ui5.sap.co
 
 11. Execute `npm start` to start the web server and to open a new browser window hosting your newly created `index.html`.
 
-
-**Parent topic:**[Quickstart Tutorial](quickstart-tutorial-592f36f.md "Unleash your OpenUI5 skills with this simple three-step tutorial. We start with a simple &quot;Hello World&quot; example, and convert it to a minimalist two-page app.")
-
-**Previous:**[Step 2: Steady...](step-2-steady-128214a.md "Now we extend our minimalist HTML page to a basic app with a view and a controller.")
 
 **Related Information**  
 

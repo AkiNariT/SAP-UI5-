@@ -100,7 +100,7 @@ The **`sap.ui5`** namespace adds OpenUI5-specific configuration parameters that 
 
 ```
 {
-    "_version": "2.7.0",
+    "_version": "2.8.0",
     "sap.app": {
         "id": "ui5.walkthrough",
         "type": "application",
@@ -127,7 +127,7 @@ The **`sap.ui5`** namespace adds OpenUI5-specific configuration parameters that 
     },
     "sap.ui5": {
         "dependencies": {
-            "minUI5Version": "1.147.0",
+            "minUI5Version": "1.148.0",
             "libs": {
                 "sap.ui.core": {},
                 "sap.m": {}
@@ -241,12 +241,6 @@ We can delete our `index.ts`, because the descriptor now takes care of everythin
 
 -   Use translatable strings for the title and the description of the app.
 
-
-**Parent topic:**[Walkthrough Tutorial \(TypeScript\)](walkthrough-tutorial-typescript-dad1905.md "In this tutorial we'll introduce you to all major development paradigms of OpenUI5. We'll demonstrate the use of TypeScript with OpenUI5 and highlight the specific characteristics of this approach.")
-
-**Next:**[Step 9: Component Configuration \(TypeScript\)](step-9-component-configuration-typescript-f9d0e2f.md "After we have introduced all three parts of the Model-View-Controller (MVC) concept, we now come to another important structural aspect of OpenUI5.")
-
-**Previous:**[Step 11: Pages and Panels \(TypeScript\)](step-11-pages-and-panels-typescript-feed613.md "After all the work on the app structure it's time to improve the look of our app. We will use two controls from the sap.m library to add a bit more &quot;bling&quot; to our UI. You will also learn about control aggregations in this step.")
 
 **Related Information**  
 
