@@ -1,5 +1,3 @@
-![Openui5](media/openui5.png)
-
 # openui5-docs
 
 Your place to contribute to the OpenUI5 documentation
