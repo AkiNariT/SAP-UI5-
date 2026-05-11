@@ -1,7 +1,7 @@
 UI5学习。
 记录常用class，function等。  
 
-初期配置（size：5）
+<h2 初期配置 /> 
 1.下载node.js
 
 2.编辑器选则Vscode或者Eclipses。早期学习JAVA时常使用Eclipes，且CDSview也在其中操作，但本回学习使用VScode。
